@@ -14,4 +14,4 @@ __Dí vào link ở dòng 6,7 để tìm tiếp flag__
 
 __Ghép lại ta đc flag__ 
 
-__Flag: picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}
+__Flag: picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}__
